@@ -1,0 +1,5 @@
+thừa kế
+ 
+ + phương thức cùng tên ở lớp cha sẽ được ghi đè
+ + trong PHP các hàm/phương thức được xác định duy nhất bởi tên
+ + do đó
